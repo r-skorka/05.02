@@ -13,7 +13,7 @@ class VolunteerForm:
         self.add_field("Nazwisko", "surname")
 
         # --- MIEJSCE NA KOD OSOBY B ---
-        # Tutaj Osoba B doda swoje pola np. PESEL, Miasto
+        # dfrgbrtebgtrbghtrbgtrbhrh
 
         # --- MIEJSCE NA KOD OSOBY C ---
         # Tutaj Osoba C doda swoje pola np. Rozmiar koszulki
